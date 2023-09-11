@@ -9,6 +9,7 @@ Make sure you have these all installed on your machine:
 - [Git](https://git-scm.com/downloads)
 - [Flutter](https://docs.flutter.dev/get-started/install)
 - [Android Studio](https://developer.android.com/studio/install)
+- [Virtual Device/Emulator](https://developer.android.com/studio/run/emulator)
 
 ## Installation
 
